@@ -1,6 +1,6 @@
 # 🚀 AWS 3-Tier Architecture using Terraform
 
-![Architecture Diagram](./3_tier_architecture.jpg)
+![Architecture Diagram](./3_tier_diagram.jpg)
 
 This project provisions a **highly available and scalable 3-tier architecture on AWS using Terraform**.  
 The infrastructure is designed using modular Terraform code and follows standard cloud architecture practices.
