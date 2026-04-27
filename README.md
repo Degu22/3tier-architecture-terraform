@@ -45,7 +45,7 @@ User → Route 53 → Public Load Balancer → Web Tier → Application Tier →
 .
 ├── main.tf
 ├── README.md
-├── 3_tier_architecture.png
+├── 3_tier_architecture.jpg
 ├── .gitignore
 ├── modules/
 │   ├── network/
